@@ -22,7 +22,7 @@ and open the template in the editor.
 	    echo '3ture';
 	}
 	//if嵌套语句，不说了，和js一样
-	//去掉{}的形式
+	//去掉{}的形式,没什么乱用
 	echo '<hr>';
 	$i='hello';
 	if($i=='hi'):
